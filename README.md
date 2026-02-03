@@ -17,8 +17,8 @@ The dashboard provides insights into:
 - GitHub for version control
 
 ## Dataset
-The dataset used for this project is included in the `data/` folder:
-- `sales.csv`
+The dataset used
+-<a href=https://github.com/Meherrani/Customer-Analysis-using-Tableau/blob/main/Customer_sales_data.zip>Dataset</a>
 
 ## Dashboard Preview
 ![Customer Sales Dashboard](dashboard/customer_sales_dashboard.png)
