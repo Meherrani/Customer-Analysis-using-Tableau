@@ -6,12 +6,12 @@ An interactive Tableau dashboard designed to analyze customer sales performance 
 ## Project Structure
 
 ```
-spacex_assignment/
+Customer-Analysis-using-Tableau/
 │
-├── Project Customer Dashboard Image.png             # Data collection from SpaceX API
-├── Customer_sales_data.zip          # Web scraping Falcon 9 launch data from Wikipedia
-├── Customer Sales Dashboard Image.png         # Data wrangling and preprocessing
-├── README.md         # SQL-based exploratory data analysis using DuckDB
+├── Project Customer Dashboard Image.png            
+├── Customer_sales_data.zip        
+├── Customer Sales Dashboard Image.png       
+├── README.md        
 
 ```
 
