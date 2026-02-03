@@ -20,7 +20,7 @@ The dashboard provides insights into:
 - <a href=https://github.com/Meherrani/Customer-Analysis-using-Tableau/blob/main/Customer_sales_data.zip>Customer Sales Dataset</a>
 
 ## Dashboard Preview
-![Customer Sales Dashboard](dashboard/customer_sales_dashboard.png)
+Dashboard Image <a href=https://github.com/Meherrani/Customer-Analysis-using-Tableau/blob/main/Customer%20Sales%20Dashboard%20Image.png>View Dashboard<a>
 
 ## Key Insights
 - Certain states contribute disproportionately to overall revenue
