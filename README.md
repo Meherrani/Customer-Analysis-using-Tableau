@@ -2,6 +2,17 @@
 
 An interactive Tableau dashboard designed to analyze customer sales performance across geography, time, age groups, gender, and product categories. The project highlights revenue trends, regional contribution, demographic insights, and the relationship between discounts and order quantity to support data-driven decision making.
 
+## Project Structure
+
+customer-sales-using-tableau/
+│
+├── Project Customer Dashboard Image.png
+├── Customer_sales_data.zip
+├── Customer Sales Dashboard Image.png
+├── README.md
+└── .gitignore   (optional, but recommended)
+
+
 ## Dashboard Overview
 The dashboard provides insights into:
 - Total revenue and monthly revenue trends
