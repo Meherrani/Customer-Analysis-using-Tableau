@@ -10,6 +10,7 @@ The dashboard provides insights into:
 - Region-wise revenue share
 - Quantity vs Discount correlation
 - Category-level revenue breakdown
+- Dashboard Interaction <a href=https://github.com/Meherrani/Customer-Analysis-using-Tableau/blob/main/Customer%20Sales%20Dashboard%20Image.png>View Dashboard<a>
 
 ## Tools Used
 - Tableau Desktop
@@ -20,7 +21,8 @@ The dashboard provides insights into:
 - <a href=https://github.com/Meherrani/Customer-Analysis-using-Tableau/blob/main/Customer_sales_data.zip>Customer Sales Dataset</a>
 
 ## Dashboard Preview
-Dashboard Image <a href=https://github.com/Meherrani/Customer-Analysis-using-Tableau/blob/main/Customer%20Sales%20Dashboard%20Image.png>View Dashboard<a>
+<img width="1919" height="1020" alt="Customer Sales Dashboard Image" src="https://github.com/user-attachments/assets/3de7dc69-7884-42a1-ad52-7854b7f7fdcb" />
+
 
 ## Key Insights
 - Certain states contribute disproportionately to overall revenue
