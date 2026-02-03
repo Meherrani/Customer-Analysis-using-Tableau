@@ -17,7 +17,7 @@ The dashboard provides insights into:
 - GitHub for version control
 
 ## Dataset
--<a href=https://github.com/Meherrani/Customer-Analysis-using-Tableau/blob/main/Customer_sales_data.zip>Customer Sales Dataset</a>
+- <a href=https://github.com/Meherrani/Customer-Analysis-using-Tableau/blob/main/Customer_sales_data.zip>Customer Sales Dataset</a>
 
 ## Dashboard Preview
 ![Customer Sales Dashboard](dashboard/customer_sales_dashboard.png)
