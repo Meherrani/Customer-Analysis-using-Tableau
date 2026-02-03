@@ -36,4 +36,4 @@ The dataset used for this project is included in the `data/` folder:
 4. Interact with filters and visualizations
 
 ## Author
-Vamsi Routhu
+Meher Rani Pusarla 
