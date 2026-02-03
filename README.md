@@ -30,7 +30,7 @@ The dataset used for this project is included in the `data/` folder:
 - Regional sales distribution shows clear geographic patterns
 
 ## How to Use
-1. Download the Tableau workbook from the `dashboard/` folder
+1. Download the Tableau workbook from the files
 2. Open it in Tableau Desktop
 3. Connect to the provided dataset if prompted
 4. Interact with filters and visualizations
