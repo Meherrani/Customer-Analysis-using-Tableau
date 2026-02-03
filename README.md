@@ -9,7 +9,8 @@ An interactive Tableau dashboard designed to analyze customer sales performance 
 Customer-Analysis-using-Tableau/
 │
 ├── Project Customer Dashboard Image.png            
-├── Customer_sales_data.zip        
+├── Customer_sales_data.zip
+├── Customer_Sales_Analysis_Report.pdf
 ├── Customer Sales Dashboard Image.png       
 ├── README.md        
 
